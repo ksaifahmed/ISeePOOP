@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISeePOOP", "ISeePOOP\ISeePOOP.csproj", "{4C2AD2E8-D296-4370-8B0B-F4B3C26FABF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C2AD2E8-D296-4370-8B0B-F4B3C26FABF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2AD2E8-D296-4370-8B0B-F4B3C26FABF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2AD2E8-D296-4370-8B0B-F4B3C26FABF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2AD2E8-D296-4370-8B0B-F4B3C26FABF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8934505F-80FE-4B8E-A453-CAD1AF1B3DEE}
+	EndGlobalSection
+EndGlobal
