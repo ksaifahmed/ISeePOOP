@@ -85,7 +85,7 @@ namespace ISeePOOP
     }
 
 
-    public class BasicsOfStatic
+    public class _04_Static
     {
         public static void Demo ()
         {

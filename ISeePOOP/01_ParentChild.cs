@@ -86,7 +86,7 @@ namespace ISeePOOP
         }
     }
 
-    public class BasicsOfParentChild
+    public class _01_ParentChild
     {
         public static void Demo()
         {

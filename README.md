@@ -1,2 +1,10 @@
-# ISeePOOP
-OOP Concepts in Csharp
+# Overview
+OOP flavors of Csharp
+
+## Polymorphism
+
+## Abstraction
+
+## Encapsulation
+
+## Inheritance
